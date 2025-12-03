@@ -1,0 +1,6 @@
+
+body{font-family:'Inter',sans-serif;background:#f9fbfc;}
+h1,h2,h3{color:#003366;}
+.stButton>button{background:#0055aa;color:white;border-radius:8px;font-weight:bold;}
+.stButton>button:hover{background:#007bff;}
+footer{visibility:hidden;}
